@@ -1,0 +1,50 @@
+C:\Users\frany\Desktop\ESTRUCTURA\proyecto2-14MARZO\Proyecto2Juego\Proyecto2Juego\bin\Debug\Proyecto2Juego.exe.config
+C:\Users\frany\Desktop\ESTRUCTURA\proyecto2-14MARZO\Proyecto2Juego\Proyecto2Juego\bin\Debug\Proyecto2Juego.exe
+C:\Users\frany\Desktop\ESTRUCTURA\proyecto2-14MARZO\Proyecto2Juego\Proyecto2Juego\bin\Debug\Proyecto2Juego.pdb
+C:\Users\frany\Desktop\ESTRUCTURA\proyecto2-14MARZO\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.csproj.AssemblyReference.cache
+C:\Users\frany\Desktop\ESTRUCTURA\proyecto2-14MARZO\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.Form1.resources
+C:\Users\frany\Desktop\ESTRUCTURA\proyecto2-14MARZO\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.Properties.Resources.resources
+C:\Users\frany\Desktop\ESTRUCTURA\proyecto2-14MARZO\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.csproj.GenerateResource.cache
+C:\Users\frany\Desktop\ESTRUCTURA\proyecto2-14MARZO\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.csproj.CoreCompileInputs.cache
+C:\Users\frany\Desktop\ESTRUCTURA\proyecto2-14MARZO\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.exe
+C:\Users\frany\Desktop\ESTRUCTURA\proyecto2-14MARZO\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.pdb
+C:\Users\Invitado\Downloads\Proyecto2Juego\Proyecto2Juego\bin\Debug\Proyecto2Juego.exe.config
+C:\Users\Invitado\Downloads\Proyecto2Juego\Proyecto2Juego\bin\Debug\Proyecto2Juego.exe
+C:\Users\Invitado\Downloads\Proyecto2Juego\Proyecto2Juego\bin\Debug\Proyecto2Juego.pdb
+C:\Users\Invitado\Downloads\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.csproj.AssemblyReference.cache
+C:\Users\Invitado\Downloads\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.Form1.resources
+C:\Users\Invitado\Downloads\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.Properties.Resources.resources
+C:\Users\Invitado\Downloads\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.csproj.GenerateResource.cache
+C:\Users\Invitado\Downloads\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.csproj.CoreCompileInputs.cache
+C:\Users\Invitado\Downloads\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.exe
+C:\Users\Invitado\Downloads\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.pdb
+C:\Users\frany\Dropbox\PC\Downloads\Juego4enLinea\Proyecto2Juego\Proyecto2Juego\bin\Debug\Proyecto2Juego.exe.config
+C:\Users\frany\Dropbox\PC\Downloads\Juego4enLinea\Proyecto2Juego\Proyecto2Juego\bin\Debug\Proyecto2Juego.exe
+C:\Users\frany\Dropbox\PC\Downloads\Juego4enLinea\Proyecto2Juego\Proyecto2Juego\bin\Debug\Proyecto2Juego.pdb
+C:\Users\frany\Dropbox\PC\Downloads\Juego4enLinea\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.csproj.AssemblyReference.cache
+C:\Users\frany\Dropbox\PC\Downloads\Juego4enLinea\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.Form1.resources
+C:\Users\frany\Dropbox\PC\Downloads\Juego4enLinea\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.Properties.Resources.resources
+C:\Users\frany\Dropbox\PC\Downloads\Juego4enLinea\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.csproj.GenerateResource.cache
+C:\Users\frany\Dropbox\PC\Downloads\Juego4enLinea\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.csproj.CoreCompileInputs.cache
+C:\Users\frany\Dropbox\PC\Downloads\Juego4enLinea\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.exe
+C:\Users\frany\Dropbox\PC\Downloads\Juego4enLinea\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.pdb
+C:\Users\ariel\OneDrive\Documentos\Programacion\Estructura de Datos - 2024 I cuatri\Proyecto2 guardado cargado\Proyecto2Juego\Proyecto2Juego\bin\Debug\Proyecto2Juego.exe.config
+C:\Users\ariel\OneDrive\Documentos\Programacion\Estructura de Datos - 2024 I cuatri\Proyecto2 guardado cargado\Proyecto2Juego\Proyecto2Juego\bin\Debug\Proyecto2Juego.exe
+C:\Users\ariel\OneDrive\Documentos\Programacion\Estructura de Datos - 2024 I cuatri\Proyecto2 guardado cargado\Proyecto2Juego\Proyecto2Juego\bin\Debug\Proyecto2Juego.pdb
+C:\Users\ariel\OneDrive\Documentos\Programacion\Estructura de Datos - 2024 I cuatri\Proyecto2 guardado cargado\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Documentos\Programacion\Estructura de Datos - 2024 I cuatri\Proyecto2 guardado cargado\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.Form1.resources
+C:\Users\ariel\OneDrive\Documentos\Programacion\Estructura de Datos - 2024 I cuatri\Proyecto2 guardado cargado\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.Properties.Resources.resources
+C:\Users\ariel\OneDrive\Documentos\Programacion\Estructura de Datos - 2024 I cuatri\Proyecto2 guardado cargado\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.csproj.GenerateResource.cache
+C:\Users\ariel\OneDrive\Documentos\Programacion\Estructura de Datos - 2024 I cuatri\Proyecto2 guardado cargado\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Documentos\Programacion\Estructura de Datos - 2024 I cuatri\Proyecto2 guardado cargado\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.exe
+C:\Users\ariel\OneDrive\Documentos\Programacion\Estructura de Datos - 2024 I cuatri\Proyecto2 guardado cargado\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.pdb
+C:\Users\frany\Dropbox\PC\Downloads\Proyecto2GUARDA\Proyecto2Juego\Proyecto2Juego\bin\Debug\Proyecto2Juego.exe.config
+C:\Users\frany\Dropbox\PC\Downloads\Proyecto2GUARDA\Proyecto2Juego\Proyecto2Juego\bin\Debug\Proyecto2Juego.exe
+C:\Users\frany\Dropbox\PC\Downloads\Proyecto2GUARDA\Proyecto2Juego\Proyecto2Juego\bin\Debug\Proyecto2Juego.pdb
+C:\Users\frany\Dropbox\PC\Downloads\Proyecto2GUARDA\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.csproj.AssemblyReference.cache
+C:\Users\frany\Dropbox\PC\Downloads\Proyecto2GUARDA\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.Form1.resources
+C:\Users\frany\Dropbox\PC\Downloads\Proyecto2GUARDA\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.Properties.Resources.resources
+C:\Users\frany\Dropbox\PC\Downloads\Proyecto2GUARDA\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.csproj.GenerateResource.cache
+C:\Users\frany\Dropbox\PC\Downloads\Proyecto2GUARDA\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.csproj.CoreCompileInputs.cache
+C:\Users\frany\Dropbox\PC\Downloads\Proyecto2GUARDA\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.exe
+C:\Users\frany\Dropbox\PC\Downloads\Proyecto2GUARDA\Proyecto2Juego\Proyecto2Juego\obj\Debug\Proyecto2Juego.pdb
